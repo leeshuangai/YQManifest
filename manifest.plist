@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/Tenlishy/ipatest/image.57*57.png</string>
+					<string>http://10.130.2.149:8081/iconfive.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/Tenlishy/ipatest/image.512*512.png</string>
+					<string>http://10.130.2.149:8081/iconfive1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
