@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.130.2.149:8081/Client.ipa</string>
+					<string>http://10.130.2.149:8081/app/sign/Client.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.130.2.149:8081/iconfive.png</string>
+					<string>http://10.130.2.149:8081/app/sign/sign_s.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.130.2.149:8081/iconfive1.png</string>
+					<string>http://10.130.2.149:8081/app/sign/sign_b.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
